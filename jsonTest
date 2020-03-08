@@ -1,0 +1,25 @@
+{
+  "itemNewProduct": {
+    "title": "Гречка с курицой",
+    "urlImage": "https://img4.goodfon.ru/original/1920x1200/d/5c/kasha-grechka-luk-griby.jpg",
+    "description": "Даже простую отварную гречку можно приготовить по-особенному. Немного фантазии и подходящих специй полностью преобразят привычный вкус.",
+    "weigt": 350,
+    "price": 250
+  },
+  
+   "itemNewProduct2": {
+    "title": "Лазанья с говядиной",
+    "urlImage": "https://s.mediasole.ru/images/1451/1451547/1_1_1550995384639.jpg",
+    "description": "Посыпаем натертым сыром, добавляем бульоный кубик разведенный ы 1,5 стакане воды, запекаем в духовке 20-30 минут.",
+    "weigt": 450,
+    "price": 450
+  },
+  
+  "itemNewProduct3": {
+    "title": "Салат из помидорово с базиликовым маслом",
+    "urlImage": "https://img.taste.com.au/h9KkdZIW/w720-h480-cfill-q80/taste/2016/11/roma-tomato-and-basil-salad-82537-1.jpeg",
+    "description": "Базилик — популярная кулинарная приправа и лекарственное растение из Южной Азии, улучшающее вкус и аромат блюд и укрепляяющее здоровье.",
+    "weigt": 350,
+    "price": 220
+  }
+}
